@@ -11,3 +11,5 @@
 
 * Hangman
     * Learned about Random module.
+ 
+    * This project demonstrates GitHub collaboration using fork and pull request workflow.
